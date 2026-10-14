@@ -1,5 +1,5 @@
 # examen-cpp
-## Creado por: Ariana de los Angeles Lopez Robles
+## Nombre: Ariana de los Angeles Lopez Robles
 | Linea | Justificacion | Correccion |
 |---|---|---|
 |8|La estructura debe terminar con punto y coma para que funcione|}; en lugar de }|
