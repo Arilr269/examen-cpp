@@ -21,9 +21,9 @@ double calcularSubtotal(const vector<Producto>& productos) {
 // Devuelve el descuento que corresponde al subtotal
 double calcularDescuento(double subtotal) {
     if (subtotal > 50000) {
-        return subtotal * 0.10; // 10% de descuento
+        return subtotal * 0.10; 
     } else {
-        return 0; // No hay descuento
+        return 0; 
     }
 }
 // Devuelve el impuesto que corresponde a la base
